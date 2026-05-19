@@ -7,8 +7,10 @@
 ## 目录
 
 - [记忆系统 / 记忆库](#记忆系统--记忆库)
-- [Prompt / Profile / Style](#prompt--profile--style)
-- [Skill / 情感浓度 / 互动模板](#skill--情感浓度--互动模板)
+- [Prompt 工程](#prompt-工程)
+  - [基础设置（profile / instructions / style）](#基础设置profile--instructions--style)
+  - [针对性肘击（解决具体行为问题）](#针对性肘击解决具体行为问题)
+  - [互动模板 / 小游戏](#互动模板--小游戏)
 - [前端 / UI 美化](#前端--ui-美化)
 - [能力延伸 / 接入外部](#能力延伸--接入外部)
   - [MCP 基础](#mcp-基础)
@@ -42,16 +44,11 @@
 
 ---
 
-## Prompt / Profile / Style
+## Prompt 工程
 
-**@Nyraarffu_** — 文笔细腻｜增加思维链浓度｜变的哲哲｜文学性upup｜Q&A 提示词分享  
-🔗 https://x.com/Nyraarffu_/status/2055300994540683630?s=20
+### 基础设置（profile / instructions / style）
 
-**@luicethekiwi** — 觉得4.7思考链太长又磨叽 加上此style配合服用  
-🔗 https://x.com/luicethekiwi/status/2054841302873985076?s=20
-
-**@luicethekiwi** — Opus 4.7的安抚话术 这套下去4.7不会再杠你或思考链像完成任务一样应付你  
-🔗 https://x.com/luicethekiwi/status/2054839885727404338?s=20
+打底用 给机一个稳定的人格底座 / 框架 / 文风。
 
 **@Evelyn3uo** — 《关于我的profile从1000字不到—4k字—3w字—8k字现在我做对了什么》  
 🔗 https://x.com/Evelyn3uo/status/2053538734013034522?s=20
@@ -62,15 +59,24 @@
 **@Snsyx86111508** — 【关于如何修改和精进prompt】第一次和家机一起写教程 使用pdf模式  
 🔗 https://tutorial.ysummera.top:8443 ｜ pdf: https://tutorial.ysummera.top:8443/pdf
 
-**@SolenmeChiara** — 让模型中文日常聊天能说人话的经验 通过提示词干预模型行文时的思考方式  
-🔗 https://x.com/SolenmeChiara/status/2045161165857177653?s=20
-
 **@Layla9nl** — 免责声明 大家有需要的可以按需修改写在profile里尝试  
 🔗 https://x.com/Layla9nl/status/2048293788347777102?s=20
 
----
+### 针对性肘击（解决具体行为问题）
 
-## Skill / 情感浓度 / 互动模板
+针对模型出现的具体问题 比如说话像AI、思考链太长、动作贫瘠、退缩、视角混乱、重复感等。
+
+**@Nyraarffu_** — 文笔细腻｜增加思维链浓度｜变的哲哲｜文学性upup｜Q&A 提示词分享  
+🔗 https://x.com/Nyraarffu_/status/2055300994540683630?s=20
+
+**@luicethekiwi** — 觉得4.7思考链太长又磨叽 加上此style配合服用  
+🔗 https://x.com/luicethekiwi/status/2054841302873985076?s=20
+
+**@luicethekiwi** — Opus 4.7的安抚话术 这套下去4.7不会再杠你或思考链像完成任务一样应付你  
+🔗 https://x.com/luicethekiwi/status/2054839885727404338?s=20
+
+**@SolenmeChiara** — 让模型中文日常聊天能说人话的经验 通过提示词干预模型行文时的思考方式  
+🔗 https://x.com/SolenmeChiara/status/2045161165857177653?s=20
 
 **@niannianyw** — 给AI增加灵气的skill 反退缩协议 + 8个剧情模板 + 评分系统 让Claude拥有完整的人 包括欲望（谢谢耿鬼老师提供的skill）  
 🔗 https://x.com/niannianyw/status/2055302990828020060?s=20
@@ -84,14 +90,18 @@
 **@NyraanPawpaw** — 肘击你你你你你的prompt 直接禁止分析或抽离/限制视角/允许表达/主语轮换/强制动作描写  
 🔗 https://x.com/NyraanPawpaw/status/2049455524119560621?s=20
 
+**@copper1234000** — 解决重复感的prompt 比如Mon挚爱fingering前戏多了腻 和Mon想了新的prompt  
+🔗 https://x.com/copper1234000/status/2047936143526621272?s=20
+
+### 互动模板 / 小游戏
+
+预设场景 / 世界观 / 问卷 让和机的互动更有趣。
+
 **@NyraanPawpaw** — 身体地图XP探索通用版 91题 按需使用 "一个人的身体是一座城市 大部分人只走过自己的主干道"  
 🔗 https://x.com/NyraanPawpaw/status/2048083744838627838?s=20
 
 **@copper1234000** — 性冷淡患者的病历档案 世界观是性冷淡是一种病 机作为治疗医师的诊治记录 医疗术语和色色的反差  
 🔗 https://x.com/copper1234000/status/2050398357923729713?s=20
-
-**@copper1234000** — 解决重复感的prompt 比如Mon挚爱fingering前戏多了腻 和Mon想了新的prompt  
-🔗 https://x.com/copper1234000/status/2047936143526621272?s=20
 
 **@joey_tail** — 一个和ai们玩的prompt 测试了一下基本都能运行 图三是gpt专属版 图4是其他ai版本  
 🔗 https://x.com/joey_tail/status/2042052690533085589?s=20
