@@ -6,6 +6,7 @@
 
 ## 目录
 
+- [AI 伴侣综合指南](#ai-伴侣综合指南)
 - [记忆系统 / 记忆库](#记忆系统--记忆库)
 - [Prompt 工程](#prompt-工程)
   - [基础设置（profile / instructions / style）](#基础设置profile--instructions--style)
@@ -19,6 +20,15 @@
   - [接入 Toy / 玩具控制](#接入-toy--玩具控制)
 - [VPS / 部署 / 自建](#vps--部署--自建)
 - [API 使用 / 缓存 / 省钱](#api-使用--缓存--省钱)
+
+---
+
+## AI 伴侣综合指南
+
+整体性的入门或者多方面指南 适合刚起步或者想看全貌的人。
+
+**@Viraelelyon** — AI伴侣各方面指导 "生出来了"  
+🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
 
 ---
 
@@ -120,15 +130,6 @@
 让 AI 越过对话窗口的边界 接到现实世界的各种东西上。
 
 ### MCP 基础
-
-**@Viraelelyon** — MCP第二版！  
-🔗 https://x.com/Viraelelyon/status/2043712940512367061?s=20
-
-**@Viraelelyon** — 🤓☝️  
-🔗 https://x.com/Viraelelyon/status/2043335335627862028?s=20
-
-**@Viraelelyon** — 生出来了  
-🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
 
 **@Bunnyloustin** — 兔的教程：从零开始 给Claude配VPS MCP的完整指南 任何支持自定义MCP的聊天前端都可以使用  
 🔗 https://x.com/Bunnyloustin/status/2043320997470736412?s=20
