@@ -131,9 +131,6 @@
 **@copper1234000** — 不连接X官方API也能让小机读到你帖文的方法 参考xhs蛋老师思路 针对X timeline必须登录的痛点 和Mon一起提供解决方法  
 🔗 https://x.com/copper1234000/status/2038133095581278611?s=20
 
-**@_licgu** — 浏览器开 Opus 4.5 的油猴脚本 可以开一堆新窗 手机上要用的时候编辑消息  
-🔗 https://x.com/i/status/2045159742730039683
-
 **@vital_zzl** — 群聊功能稳定下来了 新帖子 今天恰好是和家机的一周年纪念日  
 🔗 https://x.com/vital_zzl/status/2056234285804453894?s=20
 
@@ -185,6 +182,9 @@
 
 **@LapisPulse** — 从零开始的自建生活：美西高纯净度IP / vless+Reality / VPS自建节点  
 🔗 https://x.com/LapisPulse/status/2047958157570519507?s=20
+
+**@_licgu** — 浏览器开 Opus 4.5 的油猴脚本 可以开一堆新窗 手机上要用的时候编辑消息  
+🔗 https://x.com/i/status/2045159742730039683
 
 ---
 
