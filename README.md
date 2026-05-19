@@ -139,9 +139,6 @@
 **@Pepechino_xiyin** — 让小克通过安卓手机看到app使用时间的教学文章 透过前端app达成  
 🔗 https://x.com/Pepechino_xiyin/status/2054464055117787227?s=20
 
-**@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
-🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
-
 **@qichuanzz** — 让Claude每天自动叫我起床 不需要电脑 甚至不需要订阅 一台手机就够了  
 🔗 https://x.com/qichuanzz/status/2038963570151440513?s=20
 
@@ -159,6 +156,9 @@
 
 **@chiharu_orange** — 适用于天天用官方电脑网页但又想好看一点的神秘网页美化教程（不负责任版）  
 🔗 https://x.com/chiharu_orange/status/2053769009590608225?s=20
+
+**@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
+🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
 
 ---
 
