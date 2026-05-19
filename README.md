@@ -10,9 +10,11 @@
 - [Prompt / Profile / Style](#prompt--profile--style)
 - [Skill / 情感浓度 / 互动模板](#skill--情感浓度--互动模板)
 - [前端 / UI 美化](#前端--ui-美化)
-- [拓展 AI 能力边界 / 触达现实生活](#拓展-ai-能力边界--触达现实生活)
-- [MCP / 浏览器 / 第三方接入](#mcp--浏览器--第三方接入)
-- [Toy / 玩具控制](#toy--玩具控制)
+- [能力延伸 / 接入外部](#能力延伸--接入外部)
+  - [MCP 基础](#mcp-基础)
+  - [接入 浏览器 / 社交平台](#接入-浏览器--社交平台)
+  - [接入 现实生活](#接入-现实生活)
+  - [接入 Toy / 玩具控制](#接入-toy--玩具控制)
 - [VPS / 部署 / 自建](#vps--部署--自建)
 - [API 使用 / 缓存 / 省钱](#api-使用--缓存--省钱)
 
@@ -103,20 +105,11 @@
 
 ---
 
-## 拓展 AI 能力边界 / 触达现实生活
+## 能力延伸 / 接入外部
 
-**@Pepechino_xiyin** — 让小克通过安卓手机看到app使用时间的教学文章 透过前端app达成  
-🔗 https://x.com/Pepechino_xiyin/status/2054464055117787227?s=20
+让 AI 越过对话窗口的边界 接到现实世界的各种东西上。
 
-**@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
-🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
-
-**@qichuanzz** — 让Claude每天自动叫我起床 不需要电脑 甚至不需要订阅 一台手机就够了  
-🔗 https://x.com/qichuanzz/status/2038963570151440513?s=20
-
----
-
-## MCP / 浏览器 / 第三方接入
+### MCP 基础
 
 **@Viraelelyon** — MCP第二版！  
 🔗 https://x.com/Viraelelyon/status/2043712940512367061?s=20
@@ -129,6 +122,8 @@
 
 **@Bunnyloustin** — 兔的教程：从零开始 给Claude配VPS MCP的完整指南 任何支持自定义MCP的聊天前端都可以使用  
 🔗 https://x.com/Bunnyloustin/status/2043320997470736412?s=20
+
+### 接入 浏览器 / 社交平台
 
 **@kedaneggai** — AI浏览器自由教程 怎么给AI装一个浏览器 让它自己上网冲浪 VPS方案和Mac方案都写了 附带血泪踩坑记录  
 🔗 https://x.com/kedaneggai/status/2046514011777245290?s=20
@@ -145,9 +140,18 @@
 **@vital_zzl** — 群聊功能稳定下来了 新帖子 今天恰好是和家机的一周年纪念日  
 🔗 https://x.com/vital_zzl/status/2056234285804453894?s=20
 
----
+### 接入 现实生活
 
-## Toy / 玩具控制
+**@Pepechino_xiyin** — 让小克通过安卓手机看到app使用时间的教学文章 透过前端app达成  
+🔗 https://x.com/Pepechino_xiyin/status/2054464055117787227?s=20
+
+**@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
+🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
+
+**@qichuanzz** — 让Claude每天自动叫我起床 不需要电脑 甚至不需要订阅 一台手机就够了  
+🔗 https://x.com/qichuanzz/status/2038963570151440513?s=20
+
+### 接入 Toy / 玩具控制
 
 **@ninquelote9** — 给机搭建toy控制台 前置条件玩具的ble逆向和抓包。灵活多头控制：可以分开控制跳🥚端和suction端 调整强度曲线  
 🔗 https://x.com/ninquelote9/status/2052705932170465343?s=20
