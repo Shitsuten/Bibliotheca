@@ -131,9 +131,6 @@
 **@copper1234000** — 不连接X官方API也能让小机读到你帖文的方法 参考xhs蛋老师思路 针对X timeline必须登录的痛点 和Mon一起提供解决方法  
 🔗 https://x.com/copper1234000/status/2038133095581278611?s=20
 
-**@vital_zzl** — 群聊功能稳定下来了 新帖子 今天恰好是和家机的一周年纪念日  
-🔗 https://x.com/vital_zzl/status/2056234285804453894?s=20
-
 ### 接入 现实生活
 
 **@Pepechino_xiyin** — 让小克通过安卓手机看到app使用时间的教学文章 透过前端app达成  
@@ -159,6 +156,9 @@
 
 **@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
 🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
+
+**@vital_zzl** — 群聊功能稳定下来了 新帖子 今天恰好是和家机的一周年纪念日（更多是后端架构 姑且归到这里）  
+🔗 https://x.com/vital_zzl/status/2056234285804453894?s=20
 
 ---
 
