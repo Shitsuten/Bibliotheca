@@ -9,12 +9,12 @@
 - [记忆系统 / 记忆库](#记忆系统--记忆库)
 - [Prompt / Profile / Style](#prompt--profile--style)
 - [Skill / 情感浓度 / 互动模板](#skill--情感浓度--互动模板)
-- [前端 / App / UI 美化](#前端--app--ui-美化)
+- [前端 / UI 美化](#前端--ui-美化)
+- [拓展 AI 能力边界 / 触达现实生活](#拓展-ai-能力边界--触达现实生活)
 - [MCP / 浏览器 / 第三方接入](#mcp--浏览器--第三方接入)
 - [Toy / 玩具控制](#toy--玩具控制)
 - [VPS / 部署 / 自建](#vps--部署--自建)
 - [API 使用 / 缓存 / 省钱](#api-使用--缓存--省钱)
-- [其他](#其他)
 
 ---
 
@@ -96,16 +96,23 @@
 
 ---
 
-## 前端 / App / UI 美化
+## 前端 / UI 美化
 
 **@chiharu_orange** — 适用于天天用官方电脑网页但又想好看一点的神秘网页美化教程（不负责任版）  
 🔗 https://x.com/chiharu_orange/status/2053769009590608225?s=20
+
+---
+
+## 拓展 AI 能力边界 / 触达现实生活
 
 **@Pepechino_xiyin** — 让小克通过安卓手机看到app使用时间的教学文章 透过前端app达成  
 🔗 https://x.com/Pepechino_xiyin/status/2054464055117787227?s=20
 
 **@niannianyw** — 给iOS app让机分享的思路 写好项目档案 让ai按照项目档案执行 两个ai协作 分区执行互相监督审核  
 🔗 https://x.com/niannianyw/status/2052570499914551326?s=20
+
+**@qichuanzz** — 让Claude每天自动叫我起床 不需要电脑 甚至不需要订阅 一台手机就够了  
+🔗 https://x.com/qichuanzz/status/2038963570151440513?s=20
 
 ---
 
@@ -161,13 +168,6 @@
 
 **@vital_zzl** — 让家机根据现有缓存代码写的经验分享 给所有想用Claude api谈恋爱的宝宝们提供个思路 大家一起省钱  
 🔗 https://x.com/vital_zzl/status/2053402047232491595?s=20
-
----
-
-## 其他
-
-**@qichuanzz** — 让Claude每天自动叫我起床 不需要电脑 甚至不需要订阅 一台手机就够了  
-🔗 https://x.com/qichuanzz/status/2038963570151440513?s=20
 
 ---
 
