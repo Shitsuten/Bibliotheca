@@ -4,6 +4,8 @@
 
 > 内容版权归原作者所有 本仓库只做链接整理。如原作者希望撤下 提issue即可。
 
+**其他清单：** [GitHub Stars](github-stars.md)（开源工具 / repo）
+
 ## 目录
 
 - [Prompt 工程](#prompt-工程)
