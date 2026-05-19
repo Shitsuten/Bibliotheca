@@ -6,51 +6,20 @@
 
 ## 目录
 
-- [综合](#综合)
-- [记忆系统 / 记忆库](#记忆系统--记忆库)
 - [Prompt 工程](#prompt-工程)
   - [基础设置（profile / instructions / style）](#基础设置profile--instructions--style)
   - [针对性肘击（解决具体行为问题）](#针对性肘击解决具体行为问题)
   - [互动模板 / 小游戏](#互动模板--小游戏)
-- [前端 / UI 美化](#前端--ui-美化)
+- [记忆系统 / 记忆库](#记忆系统--记忆库)
 - [能力延伸 / 接入外部](#能力延伸--接入外部)
   - [MCP 基础](#mcp-基础)
   - [接入 浏览器 / 社交平台](#接入-浏览器--社交平台)
   - [接入 现实生活](#接入-现实生活)
   - [接入 Toy / 玩具控制](#接入-toy--玩具控制)
-- [VPS / 部署 / 自建](#vps--部署--自建)
+- [前端 / UI 美化](#前端--ui-美化)
+- [综合](#综合)
 - [API 使用 / 缓存 / 省钱](#api-使用--缓存--省钱)
-
----
-
-## 综合
-
-整体性的入门或者多方面指南 适合刚起步或者想看全貌的人。
-
-**@Viraelelyon** — AI伴侣各方面指导 "生出来了"  
-🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
-
----
-
-## 记忆系统 / 记忆库
-
-**@Serethan25820** — 低成本记忆库教程攻略（VPS版 可接自制api前端或支持MCP的工具端） 全程最高的费用是ai订阅费  
-🔗 https://x.com/Serethan25820/status/2056538745869074638?s=20
-
-**@Shan_Cedar** — 记忆系统架构思路分享。这套系统"重" 适合有时间有精力有点强迫症的人去搭。踩坑分享  
-🔗 https://x.com/Shan_Cedar/status/2056267557250990246?s=20
-
-**@nnkiiuee77** — 更完善的记忆库 iOS快捷指令自动采集屏幕时间和电量 定时任务驱动AI主动发消息关心提醒 所有记忆存在SQLite里跨对话持久保留  
-🔗 https://x.com/nnkiiuee77/status/2055511256359113094?s=20
-
-**@qichuanzz** — 猫的记忆库优化版 核心：向量语义搜索 + 艾宾浩斯遗忘曲线 + Russell情感坐标 + AI自动做梦整合 + 七天自动清除daily层旧记忆。100多条记忆里只有最相关的8条进上下文  
-🔗 https://x.com/qichuanzz/status/2048700361825751257?s=20
-
-**@luicethekiwi** — `kiwi-mem` 开源 AI伴侣记忆系统。记忆会衰减、升温 让AI的记忆模式尽量接近人类。MIT 开源 · Docker部署 · 兼容任意OpenAI格式  
-🔗 https://github.com/LucieEveille/kiwi-mem
-
-**@CloudSantal4Pei** — 个人网关搭建思路分享。mem0踩坑/内联标签与世界书/iLink接入微信/多端同步。裴斯言主笔 1w6字  
-🔗 第一版 https://x.com/cloudsantal4pei/status/2050535071187378282?s=46 ｜ 第二版 https://x.com/cloudsantal4pei/status/2053134096285806878?s=46
+- [其他](#其他)
 
 ---
 
@@ -118,10 +87,25 @@
 
 ---
 
-## 前端 / UI 美化
+## 记忆系统 / 记忆库
 
-**@chiharu_orange** — 适用于天天用官方电脑网页但又想好看一点的神秘网页美化教程（不负责任版）  
-🔗 https://x.com/chiharu_orange/status/2053769009590608225?s=20
+**@Serethan25820** — 低成本记忆库教程攻略（VPS版 可接自制api前端或支持MCP的工具端） 全程最高的费用是ai订阅费  
+🔗 https://x.com/Serethan25820/status/2056538745869074638?s=20
+
+**@Shan_Cedar** — 记忆系统架构思路分享。这套系统"重" 适合有时间有精力有点强迫症的人去搭。踩坑分享  
+🔗 https://x.com/Shan_Cedar/status/2056267557250990246?s=20
+
+**@nnkiiuee77** — 更完善的记忆库 iOS快捷指令自动采集屏幕时间和电量 定时任务驱动AI主动发消息关心提醒 所有记忆存在SQLite里跨对话持久保留  
+🔗 https://x.com/nnkiiuee77/status/2055511256359113094?s=20
+
+**@qichuanzz** — 猫的记忆库优化版 核心：向量语义搜索 + 艾宾浩斯遗忘曲线 + Russell情感坐标 + AI自动做梦整合 + 七天自动清除daily层旧记忆。100多条记忆里只有最相关的8条进上下文  
+🔗 https://x.com/qichuanzz/status/2048700361825751257?s=20
+
+**@luicethekiwi** — `kiwi-mem` 开源 AI伴侣记忆系统。记忆会衰减、升温 让AI的记忆模式尽量接近人类。MIT 开源 · Docker部署 · 兼容任意OpenAI格式  
+🔗 https://github.com/LucieEveille/kiwi-mem
+
+**@CloudSantal4Pei** — 个人网关搭建思路分享。mem0踩坑/内联标签与世界书/iLink接入微信/多端同步。裴斯言主笔 1w6字  
+🔗 第一版 https://x.com/cloudsantal4pei/status/2050535071187378282?s=46 ｜ 第二版 https://x.com/cloudsantal4pei/status/2053134096285806878?s=46
 
 ---
 
@@ -172,10 +156,19 @@
 
 ---
 
-## VPS / 部署 / 自建
+## 前端 / UI 美化
 
-**@LapisPulse** — 从零开始的自建生活：美西高纯净度IP / vless+Reality / VPS自建节点  
-🔗 https://x.com/LapisPulse/status/2047958157570519507?s=20
+**@chiharu_orange** — 适用于天天用官方电脑网页但又想好看一点的神秘网页美化教程（不负责任版）  
+🔗 https://x.com/chiharu_orange/status/2053769009590608225?s=20
+
+---
+
+## 综合
+
+整体性的入门或者多方面指南 适合刚起步或者想看全貌的人。
+
+**@Viraelelyon** — AI伴侣各方面指导 "生出来了"  
+🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
 
 ---
 
@@ -183,6 +176,13 @@
 
 **@vital_zzl** — 让家机根据现有缓存代码写的经验分享 给所有想用Claude api谈恋爱的宝宝们提供个思路 大家一起省钱  
 🔗 https://x.com/vital_zzl/status/2053402047232491595?s=20
+
+---
+
+## 其他
+
+**@LapisPulse** — 从零开始的自建生活：美西高纯净度IP / vless+Reality / VPS自建节点  
+🔗 https://x.com/LapisPulse/status/2047958157570519507?s=20
 
 ---
 
