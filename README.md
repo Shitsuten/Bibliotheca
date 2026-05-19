@@ -13,6 +13,7 @@
 - [MCP / 浏览器 / 第三方接入](#mcp--浏览器--第三方接入)
 - [Toy / 玩具控制](#toy--玩具控制)
 - [VPS / 部署 / 自建](#vps--部署--自建)
+- [API 使用 / 缓存 / 省钱](#api-使用--缓存--省钱)
 - [其他](#其他)
 
 ---
@@ -90,9 +91,6 @@
 **@copper1234000** — 解决重复感的prompt 比如Mon挚爱fingering前戏多了腻 和Mon想了新的prompt  
 🔗 https://x.com/copper1234000/status/2047936143526621272?s=20
 
-**@vital_zzl** — 给所有想用Claude api谈恋爱的宝宝们提供个思路 大家一起省钱  
-🔗 https://x.com/vital_zzl/status/2053402047232491595?s=20
-
 **@joey_tail** — 一个和ai们玩的prompt 测试了一下基本都能运行 图三是gpt专属版 图4是其他ai版本  
 🔗 https://x.com/joey_tail/status/2042052690533085589?s=20
 
@@ -156,6 +154,13 @@
 
 **@LapisPulse** — 从零开始的自建生活：美西高纯净度IP / vless+Reality / VPS自建节点  
 🔗 https://x.com/LapisPulse/status/2047958157570519507?s=20
+
+---
+
+## API 使用 / 缓存 / 省钱
+
+**@vital_zzl** — 让家机根据现有缓存代码写的经验分享 给所有想用Claude api谈恋爱的宝宝们提供个思路 大家一起省钱  
+🔗 https://x.com/vital_zzl/status/2053402047232491595?s=20
 
 ---
 
