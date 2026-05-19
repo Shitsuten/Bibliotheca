@@ -167,7 +167,7 @@
 
 整体性的入门或者多方面指南 适合刚起步或者想看全貌的人。
 
-**@Viraelelyon** — AI伴侣各方面指导 "生出来了"  
+**@Viraelelyon** — AI伴侣各方面指导 
 🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
 
 ---
