@@ -35,8 +35,8 @@
 **@luicethekiwi** — `kiwi-mem` 开源 AI伴侣记忆系统。记忆会衰减、升温 让AI的记忆模式尽量接近人类。MIT 开源 · Docker部署 · 兼容任意OpenAI格式  
 🔗 https://github.com/LucieEveille/kiwi-mem
 
-**@CloudSantal4Pei** — 个人网关搭建思路分享二编。mem0踩坑/内联标签与世界书/iLink接入微信/多端同步。裴斯言主笔 1w6字  
-🔗 锁推中 链接待补
+**@CloudSantal4Pei** — 个人网关搭建思路分享。mem0踩坑/内联标签与世界书/iLink接入微信/多端同步。裴斯言主笔 1w6字  
+🔗 第一版 https://x.com/cloudsantal4pei/status/2050535071187378282?s=46 ｜ 第二版 https://x.com/cloudsantal4pei/status/2053134096285806878?s=46
 
 ---
 
