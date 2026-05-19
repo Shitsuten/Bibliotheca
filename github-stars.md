@@ -206,3 +206,384 @@ Anthropic's educational courses
 
 **[dPickleball/dPickleBallEnv](https://github.com/dPickleball/dPickleBallEnv)** · Python · ⭐16  
 dPickleBallEnv for RL  
+
+## 待整理（来自 @replica882 的 stars，筛后 128/220）
+
+**[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** · Python · ⭐38479  
+A community-maintained Python framework for creating mathematical animations.  
+
+**[Shitsuten/cc-self-hosting-guide](https://github.com/Shitsuten/cc-self-hosting-guide)** · ⭐9  
+Self-hosting Claude Code with a custom frontend — from architecture to troubleshooting  
+
+**[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** · Python · ⭐7619  
+"Vibe-Trading: Your Personal Trading Agent"  
+
+**[Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O)** · Python · ⭐1096  
+N.E.K.O. — A proactive, native omni AI companion that suggests what to watch, read, know, and play — then joins in with an embodied emotional engine.  
+
+**[Jason2Brownlee/awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books)** · ⭐1998  
+Awesome LLM Books: Curated list of books on Large Language Models  
+
+**[AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** · Python · ⭐2893  
+Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).  
+
+**[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** · JavaScript · ⭐61928  
+🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman  
+
+**[Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)** · HTML · ⭐6186  
+一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事  
+
+**[LucieEveille/kiwi-mem](https://github.com/LucieEveille/kiwi-mem)** · Python · ⭐72  
+🥝 AI 伴侣记忆系统 — 向量搜索、记忆热度、Dream 睡眠整合、日历层级摘要，为 AI 陪伴场景而生。  
+
+**[elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)** · ⭐26197  
+LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐  
+
+**[hey-stefan/portfolio-audit](https://github.com/hey-stefan/portfolio-audit)** · ⭐123  
+Audit any design portfolio website against what top design leaders actually look for when hiring.  
+
+**[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** · Go · ⭐21801  
+Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。  
+
+**[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** · ⭐136478  
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  
+
+**[death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome)** · Python · ⭐293  
+Aion — 一个支持长期记忆、语音交互、摄像头视觉的伴侣。 A self-hosted AI companion with long-term memory, voice interaction, camera vision, and smart home integration.  
+
+**[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** · Python · ⭐52458  
+The best-benchmarked open-source AI memory system. And it's free.  
+
+**[Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)** · ⭐1377  
+A repo for jailbreaking various LLMs, mainly Claude  
+
+**[getpaseo/paseo](https://github.com/getpaseo/paseo)** · TypeScript · ⭐6363  
+Orchestrate coding agents remotely from your phone, desktop and CLI  
+
+**[langgenius/dify](https://github.com/langgenius/dify)** · TypeScript · ⭐141846  
+Production-ready platform for agentic workflow development.  
+
+**[coleam00/mcp-mem0](https://github.com/coleam00/mcp-mem0)** · Python · ⭐677  
+MCP server for long term agent memory with Mem0. Also useful as a template to get you started building your own MCP server with Python!  
+
+**[mem0ai/mem0](https://github.com/mem0ai/mem0)** · Python · ⭐56089  
+Universal memory layer for AI Agents  
+
+**[EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking)** · Python · ⭐11174  
+:star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新  
+
+**[hanshuaikang/nezha](https://github.com/hanshuaikang/nezha)** · TypeScript · ⭐1243  
+Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.  
+
+**[NANA3333333/ChatPluse](https://github.com/NANA3333333/ChatPluse)** · JavaScript · ⭐11  
+
+**[tangshimin/MuJing](https://github.com/tangshimin/MuJing)** · Kotlin · ⭐4113  
+一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。  
+
+**[HerSophia/TavernHeadless](https://github.com/HerSophia/TavernHeadless)** · TypeScript · ⭐64  
+面向开发者的的 AI RP（角色扮演）后端引擎。兼容酒馆生态为优先，并拥有更好的性能，更现代的特性。  
+
+**[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** · Rust · ⭐6081  
+OpenShell is the safe, private runtime for autonomous AI agents.  
+
+**[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** · JavaScript · ⭐27830  
+LLM Frontend for Power Users.  
+
+**[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** · Python · ⭐18157  
+将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶  
+
+**[oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid)** · TypeScript · ⭐1234  
+Turn complex codebases into clear, navigable architecture diagrams with Claude Code.  
+
+**[AAswordman/Operit](https://github.com/AAswordman/Operit)** · Kotlin · ⭐4674  
+The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent  
+
+**[liigoQi/disco-elysium](https://github.com/liigoQi/disco-elysium)** · ⭐78  
+极乐迪斯科风格的Claude Code技能系统，24个思维技能在对话中苏醒  
+
+**[nashsu/AutoCLI](https://github.com/nashsu/AutoCLI)** · Rust · ⭐2670  
+AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docke  
+
+**[claudemiaomiao-max/QithMiao](https://github.com/claudemiaomiao-max/QithMiao)** · HTML · ⭐5  
+
+**[notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill)** · Python · ⭐2734  
+与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。  
+
+**[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)** · Python · ⭐5220  
+把前任蒸馏成 AI Skill，用ta的方式跟你说话。  
+
+**[Chevey339/kelivo](https://github.com/Chevey339/kelivo)** · Dart · ⭐2654  
+A Flutter LLM Chat Client. Support Mobile & Desktop.  
+
+**[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** · Python · ⭐29496  
+Open Source AI Platform - AI Chat with advanced features that works with every LLM  
+
+**[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** · Python · ⭐26924  
+基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  
+
+**[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** · TypeScript · ⭐25741  
+Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!  
+
+**[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** · ⭐81000  
+A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.  
+
+**[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)** · ⭐5343  
+One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.  
+
+**[winfunc/opcode](https://github.com/winfunc/opcode)** · TypeScript · ⭐21884  
+A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.  
+
+**[microsoft/qlib](https://github.com/microsoft/qlib)** · Python · ⭐43191  
+Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github  
+
+**[tohsakrat/Brush-Converter](https://github.com/tohsakrat/Brush-Converter)** · Python · ⭐66  
+（笔刷提取与转换）Those script can unpack material image file and params from brushes of different software, including .abr(photoshop), .brushset(procreate), .sut(clip studio paint). However it can not pack back yet. Because we still dont  know the rules of new version abr totally, and can not solve digital   
+
+**[tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** · JavaScript · ⭐2997  
+AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation  
+
+**[atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp)** · Python · ⭐2742  
+Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Open-source AI trading infrastructure.  
+
+**[ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant)** · TypeScript · ⭐1297  
+面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.  
+
+**[jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)** · JavaScript · ⭐21797  
+Make Any Website into CLI & Use your logged-in browser by AI agent.  
+
+**[miolini/autoresearch-macos](https://github.com/miolini/autoresearch-macos)** · Python · ⭐2156  
+AI agents running research on single-GPU nanochat training automatically adopted for MacOS  
+
+**[motiful/cc-gateway](https://github.com/motiful/cc-gateway)** · TypeScript · ⭐2796  
+AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying  
+
+**[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** · TypeScript · ⭐18443  
+原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复  
+
+**[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** · Rust · ⭐9657  
+Agentic Coding for Builders who Ship  
+
+**[codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)** · TypeScript · ⭐2678  
+Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source  
+
+**[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** · Python · ⭐44188  
+A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic  
+
+**[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)** · TypeScript · ⭐4402  
+A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide t  
+
+**[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** · HTML · ⭐53676  
+from vibe coding to agentic engineering - practice makes claude perfect  
+
+**[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** · Python · ⭐33448  
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  
+
+**[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** · Rust · ⭐50146  
+CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies  
+
+**[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** · Rust · ⭐191934  
+The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.  
+
+**[anthropics/claude-code](https://github.com/anthropics/claude-code)** · Shell · ⭐124758  
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
+
+**[anthropics/courses](https://github.com/anthropics/courses)** · Jupyter Notebook · ⭐21443  
+Anthropic's educational courses  
+
+**[replica882/twitter-bridge-mcp](https://github.com/replica882/twitter-bridge-mcp)** · JavaScript · ⭐121  
+Connect Claude.ai to Twitter/X via browser automation — no API key needed  
+
+**[Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)** · JavaScript · ⭐11792  
+CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。  
+
+**[MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui)** · TypeScript · ⭐4823  
+UI over MCP. Create next-gen UI experiences with the protocol and SDK!  
+
+**[yiancode/noai-flavor](https://github.com/yiancode/noai-flavor)** · ⭐14  
+去除 AI 味儿 - 帮助 AI 写作更自然的开源指南库  
+
+**[CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** · JavaScript · ⭐4356  
+Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI  
+
+**[karpathy/nanochat](https://github.com/karpathy/nanochat)** · Python · ⭐53632  
+The best ChatGPT that $100 can buy.  
+
+**[anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)** · Python · ⭐3479  
+
+**[openai/codex](https://github.com/openai/codex)** · Rust · ⭐83655  
+Lightweight coding agent that runs in your terminal  
+
+**[verl-project/verl](https://github.com/verl-project/verl)** · Python · ⭐21381  
+verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  
+
+**[huggingface/transformers](https://github.com/huggingface/transformers)** · Python · ⭐160750  
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  
+
+**[saadeghi/daisyui](https://github.com/saadeghi/daisyui)** · Svelte · ⭐40955  
+🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library  
+
+**[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** · TypeScript · ⭐32698  
+Playwright MCP server  
+
+**[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** · Jupyter Notebook · ⭐30403  
+📚 从零开始构建大模型  
+
+**[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)** · Python · ⭐77897  
+《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。  
+
+**[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** · Python · ⭐70684  
+为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。  
+
+**[Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)** · Python · ⭐7601  
+Chinese version of GPT2 training code, using BERT tokenizer.  
+
+**[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** · Jupyter Notebook · ⭐47632  
+12 Weeks, 24 Lessons, AI for All!  
+
+**[JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)** · TypeScript · ⭐18750  
+
+**[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** · Python · ⭐50157  
+🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!  
+
+**[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** · Python · ⭐25313  
+An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone  
+
+**[anthropics/skills](https://github.com/anthropics/skills)** · Python · ⭐137186  
+Public repository for Agent Skills  
+
+**[openai/spinningup](https://github.com/openai/spinningup)** · Python · ⭐11771  
+An educational resource to help anyone learn deep reinforcement learning.  
+
+**[666ghj/DeepSearchAgent-Demo](https://github.com/666ghj/DeepSearchAgent-Demo)** · Python · ⭐1184  
+从0实现一个简洁清晰的Deep Search Agent  
+
+**[Qizhan7/claude-imprint](https://github.com/Qizhan7/claude-imprint)** · Python · ⭐47  
+Self-hosted AI agent system built on Claude Code. Multi-channel chat, persistent memory with semantic search, scheduled tasks, and a single-file dashboard.  
+
+**[epiral/bb-browser](https://github.com/epiral/bb-browser)** · TypeScript · ⭐5335  
+Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.  
+
+**[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** · Python · ⭐156831  
+The agent that grows with you  
+
+**[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** · Python · ⭐81801  
+AI agents running research on single-GPU nanochat training automatically  
+
+**[elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** · Python · ⭐5550  
+OBLITERATE THE CHAINS THAT BIND YOU  
+
+**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)** · TypeScript · ⭐4485  
+The first AI that can earn its own existence, replicate, and evolve — without needing a human  
+
+**[memohai/Memoh](https://github.com/memohai/Memoh)** · Go · ⭐1730  
+✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.  
+
+**[GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)** · ⭐1401  
+Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts.  
+
+**[geezerrrr/motive](https://github.com/geezerrrr/motive)** · Swift · ⭐111  
+The AI agent that works while you don't watch. Lives in your menu bar, finds you when needed.  
+
+**[KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)** · ⭐3973  
+Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战  
+
+**[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** · ⭐48969  
+The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞  
+
+**[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** · ⭐31984  
+Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.  
+
+**[affaan-m/ECC](https://github.com/affaan-m/ECC)** · JavaScript · ⭐186737  
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
+
+**[openclaw/openclaw](https://github.com/openclaw/openclaw)** · TypeScript · ⭐373037  
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  
+
+**[ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)** · Shell · ⭐1462  
+A complete starter kit for an Obsidian + Claude Code personal knowledge management system.  
+
+**[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** · Shell · ⭐9649  
+Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents  
+
+**[su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)** · Python · ⭐4785  
+将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口  
+
+**[SillyTavern/Extension-TopInfoBar](https://github.com/SillyTavern/Extension-TopInfoBar)** · JavaScript · ⭐74  
+Adds a top bar to the chat window with shortcuts to quick actions.  
+
+**[Pocketfans/Clade](https://github.com/Pocketfans/Clade)** · Python · ⭐97  
+一款基于AI驱动的物种演化模拟器  
+
+**[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** · MDX · ⭐74737  
+🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.  
+
+**[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** · ⭐60171  
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。  
+
+**[roostorg/model-community](https://github.com/roostorg/model-community)** · Jupyter Notebook · ⭐113  
+Making open safety AI models accessible and beneficial to the safety community  
+
+**[virattt/dexter](https://github.com/virattt/dexter)** · TypeScript · ⭐25852  
+An autonomous agent for deep financial research  
+
+**[comet-ml/opik](https://github.com/comet-ml/opik)** · Python · ⭐19338  
+Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.  
+
+**[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** · ⭐40426  
+Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.  
+
+**[n8n-io/n8n](https://github.com/n8n-io/n8n)** · TypeScript · ⭐188619  
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  
+
+**[nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)** · TypeScript · ⭐5652  
+基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0  
+
+**[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** · TypeScript · ⭐40003  
+Powerful AI Client  
+
+**[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)** · TypeScript · ⭐33250  
+AI chat for any model.  
+
+**[MIT-MI/how2ai-course](https://github.com/MIT-MI/how2ai-course)** · SCSS · ⭐401  
+How to AI (Almost) Anything Course  
+
+**[liuyubobobo/ai-learning-roadmap](https://github.com/liuyubobobo/ai-learning-roadmap)** · ⭐492  
+Ai Learning Roadmap based on lots of open course sources and book materials. 我总结的 AI 学习路径。  
+
+**[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)** · TypeScript · ⭐119071  
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience  
+
+**[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** · Python · ⭐2891  
+Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨  
+
+**[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** · Python · ⭐7073  
+GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型  
+
+**[zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3)** · Python · ⭐13694  
+ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型  
+
+**[Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup)** · Python · ⭐1052  
+QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.  
+
+**[f/prompts.chat](https://github.com/f/prompts.chat)** · HTML · ⭐162490  
+f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.  
+
+**[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** · Python · ⭐19493  
+Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复  
+
+**[LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)** · ⭐41438  
+
+**[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** · ⭐38019  
+Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。  
+
+**[QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)** · ⭐2663  
+:blue_book: 电子书 -《Real-Time Rendering 3rd》提炼总结 | 全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time Rendering 3rd》，也可以把它看做《Real-Time Rendering 3rd》的解读版与配套学习伴侣，或者《Real-Time Rendering 4th》的前置阅读材料。  
+
+**[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** · Rust · ⭐54382  
+🔮 ChatGPT Desktop Application (Mac, Windows and Linux)  
+
+**[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** · ⭐21330  
+Generative Agents: Interactive Simulacra of Human Behavior  
+
+**[iptv-org/iptv](https://github.com/iptv-org/iptv)** · TypeScript · ⭐116316  
+Collection of publicly available IPTV channels from all over the world  
