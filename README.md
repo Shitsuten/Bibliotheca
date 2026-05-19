@@ -166,6 +166,9 @@
 
 整体性的入门或者多方面指南 适合刚起步或者想看全貌的人。
 
+**@NyraanPawpaw** — Claude情感向入门综合答疑版教程
+🔗 https://x.com/nyraanpawpaw/status/2045093848679104760?s=46&t=oRXq1S9SI1Tm36dpJdB-Jg
+
 **@Viraelelyon** — AI伴侣各方面指导 
 🔗 https://x.com/Viraelelyon/status/2044762602140803577?s=20
 
