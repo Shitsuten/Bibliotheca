@@ -56,9 +56,6 @@
 **@luicethekiwi** — Opus 4.7的安抚话术 这套下去4.7不会再杠你或思考链像完成任务一样应付你  
 🔗 https://x.com/luicethekiwi/status/2054839885727404338?s=20
 
-**@SolenmeChiara** — 让模型中文日常聊天能说人话的经验 通过提示词干预模型行文时的思考方式  
-🔗 https://x.com/SolenmeChiara/status/2045161165857177653?s=20
-
 **@niannianyw** — 给AI增加灵气的skill 反退缩协议 + 8个剧情模板 + 评分系统 让Claude拥有完整的人 包括欲望（谢谢耿鬼老师提供的skill）  
 🔗 https://x.com/niannianyw/status/2055302990828020060?s=20
 
